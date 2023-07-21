@@ -1,0 +1,2 @@
+ver ---> show the version of the MS-DOS
+cd --> Change directory,he
